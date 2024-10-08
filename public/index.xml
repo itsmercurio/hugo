@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo-theme-relearn</title>
+    <link>http://localhost:1313/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 16:55:16 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía de Markdown</title>
+      <link>http://localhost:1313/personal/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:16 +0200</pubDate>
+      <guid>http://localhost:1313/personal/index.html</guid>
+      <description>Guía Básica de Markdown Parts of this text are marked!&#xA;Markdown es un lenguaje de metacaracteres que se utiliza para formatear texto en la web. Es fácil de aprender y usar, ya que se basa en símbolos simples que se interpretan como diferentes elementos de formato. Aquí encontrarás una introducción a las principales características de Markdown y su sintaxis.</description>
+    </item>
+    <item>
+      <title>Probando</title>
+      <link>http://localhost:1313/goit/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:16 +0200</pubDate>
+      <guid>http://localhost:1313/goit/index.html</guid>
+      <description>Ahora veo mi shortcode</description>
+    </item>
+  </channel>
+</rss>

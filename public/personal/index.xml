@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guía de Markdown :: hugo-theme-relearn</title>
+    <link>http://localhost:1313/personal/index.html</link>
+    <description>Guía Básica de Markdown Parts of this text are marked!&#xA;Markdown es un lenguaje de metacaracteres que se utiliza para formatear texto en la web. Es fácil de aprender y usar, ya que se basa en símbolos simples que se interpretan como diferentes elementos de formato. Aquí encontrarás una introducción a las principales características de Markdown y su sintaxis.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 16:55:43 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imagenes Emojis y otros multimedias</title>
+      <link>http://localhost:1313/personal/_bici/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:43 +0200</pubDate>
+      <guid>http://localhost:1313/personal/_bici/index.html</guid>
+      <description>Enlaces Puedes crear enlaces utilizando corchetes [] para el texto y paréntesis () para la URL.&#xA;[Texto del enlace](https://ejemplo.com)&#xD;Esto se verá así:&#xA;Texto del enlace&#xA;Imágenes Para insertar imágenes, utiliza un signo de exclamación ! seguido por la sintaxis de enlace.&#xA;![Texto alternativo de la imagen](https://ejemplo.com/imagen.jpg)&#xD;Esto mostrará la imagen:</description>
+    </item>
+    <item>
+      <title>Sintaxis Extras</title>
+      <link>http://localhost:1313/personal/_viajes/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:34 +0200</pubDate>
+      <guid>http://localhost:1313/personal/_viajes/index.html</guid>
+      <description>Sintaxis Avanzada de Markdown Aquí te dejo algunas sintaxis adicionales de Markdown que puedes usar para ampliar las funcionalidades de tus archivos:&#xA;Tareas (Checkboxes) Puedes crear listas de tareas utilizando corchetes con espacios [ ] o con una “x” [x] para marcar completadas.&#xA;- [ ] Tarea incompleta - [x] Tarea completada&#xD;Esto se verá así:&#xA;Tarea incompleta Tarea completada Comentarios Los comentarios en Markdown no se muestran en el renderizado final. Para agregarlos, puedes usar HTML:</description>
+    </item>
+  </channel>
+</rss>
